@@ -1,6 +1,6 @@
 # Hi there, I'm Davi 👋
 
-## 🌟 About Me
+## 🦈 About Me
 
 I'm a passionate **Machine Learning** student dedicated to exploring the fascinating world of data and algorithms. My journey revolves around turning complex datasets into actionable insights and building models that can make a difference.
 
