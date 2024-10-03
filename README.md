@@ -22,9 +22,9 @@ I'm a passionate **Machine Learning** student dedicated to exploring the fascina
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dawi369&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dawi369&show_icons=true&theme=radical) -->
 
 ## 🌐 Connect with Me
 
@@ -32,7 +32,7 @@ I'm a passionate **Machine Learning** student dedicated to exploring the fascina
 [![X](https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=flat)](https://x.com/0xSiliconShark)
 [![Personal Website](https://img.shields.io/badge/-Website-000000?logo=About.me&logoColor=white&style=flat)](https://dawi369.github.io/)
 
-## 📚 Featured Projects
+<!-- ## 📚 Featured Projects
 
 ### [Project Name 1](https://github.com/yourusername/project1)
 *A brief description of the project and its impact.*
@@ -49,12 +49,12 @@ I enjoy experimenting with different machine learning models and staying updated
 
 - **Generative Adversarial Networks (GANs)**
 - **Reinforcement Learning**
-- **Explainable AI (XAI)**
+- **Explainable AI (XAI)** -->
 
 ## 🎯 Future Goals
 
 - Contribute to open-source ML libraries
-- Publish a research paper on **[Your Research Interest]**
+- Publish a research paper on **Deep learning for financial forecasting**
 - Attend and present at tech conferences
 
 ---
