@@ -26,19 +26,11 @@ I'm a passionate **Machine Learning** student dedicated to exploring the fascina
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dawi369&show_icons=true&theme=radical)
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Post Title 1](https://yourblog.com/post1)
-- [Post Title 2](https://yourblog.com/post2)
-- [Post Title 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/david-erwin-cz68)
-[![X](https://img.shields.io/twitter/url)](https://x.com/0xSiliconShark)
-[![Personal Website](https://img.shields.io/badge/-Website-000000?logo=About.me&logoColor=white&style=flat)](https://yourwebsite.com)
+[![X](https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=flat)](https://x.com/0xSiliconShark)
+[![Personal Website](https://img.shields.io/badge/-Website-000000?logo=About.me&logoColor=white&style=flat)](https://dawi369.github.io/)
 
 ## 📚 Featured Projects
 
