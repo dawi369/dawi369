@@ -9,6 +9,7 @@ I'm a passionate **Machine Learning** student dedicated to exploring the fascina
 - 💡 Interested in collaborating on **open-source ML projects**
 - 🎯 Goals: Contribute to impactful ML projects and publish research papers
 - 📫 How to reach me: [david.erwin.cz68@gmail.com](mailto:david.erwin.cz68@gmail.com)
+- Find out more: [add link]
 
 ## 🚀 Skills and Tools
 
