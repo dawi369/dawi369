@@ -1,16 +1,13 @@
-# Hi there, I'm Davi 👋
+# Hi, I'm David
 
-## 🦈 About Me
-
-I'm a passionate **Machine Learning** student dedicated to exploring the fascinating world of data and algorithms. My journey revolves around turning complex datasets into actionable insights and building models that can make a difference.
+I'm a passionate Electrical Engineering and Computer Science student deeply interested in **Machine Learning** and **Data Science**. I'm also super interested in **Backend development**, **Infrastructure as Code**, **Containerization**, and **Cloud Technology**. Currently I'm applying myself to personal project and school requirements. 
 
 - 🎓 Studying at **Czech Technical University**
-- 🌱 Currently learning about **Deep Learning**, **Computer Vision**, and **Natural Language Processing**
-- 💡 Interested in collaborating on **open-source ML projects**
-- 🎯 Goals: Contribute to impactful ML projects and publish research papers
+- 🎯 Goals: Contribute to impactful ML/Data Science projects and publish a research paper
 - 📫 How to reach me: [david.erwin.cz68@gmail.com](mailto:david.erwin.cz68@gmail.com)
 - 🌐 Personal Website: [Website](https://dawi369.github.io/)
 
+<!--
 ## 🚀 Skills and Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
