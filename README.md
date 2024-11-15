@@ -32,8 +32,8 @@ I'm a passionate Electrical Engineering and Computer Science student deeply inte
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/david-erwin-cz68)
-[![X](https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=flat)](https://x.com/0xSiliconShark)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/david-erwin-cz68)
+[![X](https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=flat)](https://x.com/0xmle)
 [![Personal Website](https://img.shields.io/badge/-Website-000000?logo=About.me&logoColor=white&style=flat)](https://dawi369.github.io/)
 
 <!-- ## 📚 Featured Projects
