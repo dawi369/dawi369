@@ -1,6 +1,7 @@
-# Hi, I'm David
+# Hi, I'm David 
 
-I'm a passionate Electrical Engineering and Computer Science student deeply interested in **Machine Learning** and **Data Science**. I'm also super interested in **Backend development**, **Infrastructure as Code**, **Containerization**, and **Cloud Technology**. Currently I'm applying myself to personal project and school requirements. 
+Ex-intern - Pablo Dylan, Los Angeles 
+I'm a passionate Electrical Engineering and Computer Science student deeply interested building and learning. I'm interested in **Machine Leaning**, **Data Science/Engineering**, and **Backend Development**. I love Rust for performance applications and Python for data. I'm also a big fan of Kotlin and Go. Currently bulding cool projects, writing my **Thesis**, and graduating.
 
 - 🎓 Studying at **Czech Technical University**
 - 🎯 Goals: Contribute to impactful ML/Data Science projects and publish a research paper
@@ -30,6 +31,7 @@ I'm a passionate Electrical Engineering and Computer Science student deeply inte
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dawi369&show_icons=true&theme=radical) -->
 
+<!--
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/david-erwin-cz68)
@@ -55,13 +57,14 @@ I enjoy experimenting with different machine learning models and staying updated
 - **Reinforcement Learning**
 - **Explainable AI (XAI)** -->
 
+<!--
 ## 🎯 Future Goals
 
 - Contribute to open-source ML libraries
 - Publish a research paper on **Deep learning for financial forecasting**
 - Attend and present at tech conferences
 
----
+--->
 
 *Feel free to reach out if you want to collaborate on any projects or just chat about machine learning!*
 
