@@ -1,6 +1,7 @@
 # Hi, I'm David 
 
-Ex-intern - Pablo Dylan, Los Angeles 
+Ex-intern - Pablo Dylan, Los Angeles.
+
 I'm a passionate Electrical Engineering and Computer Science student deeply interested building and learning. I'm interested in **Machine Leaning**, **Data Science/Engineering**, and **Backend Development**. I love Rust for performance applications and Python for data. I'm also a big fan of Kotlin and Go. Currently bulding cool projects, writing my **Thesis**, and graduating.
 
 - 🎓 Studying at **Czech Technical University**
