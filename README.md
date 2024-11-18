@@ -6,7 +6,7 @@ I'm a passionate Electrical Engineering and Computer Science student deeply inte
 - 🎓 Studying at **Czech Technical University**
 - 🎯 Goals: Contribute to impactful ML/Data Science projects and publish a research paper
 - 📫 How to reach me: [david.erwin.cz68@gmail.com](mailto:david.erwin.cz68@gmail.com)
-- 🌐 Personal Website: [Website](https://dawi369.github.io/)
+- 🌐 Personal Website: [click](https://dawi369.github.io/)
 
 <!--
 ## 🚀 Skills and Tools
