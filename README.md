@@ -90,4 +90,4 @@ All of my projects are available on my portfolio website: [daviderwin.me/project
 
 
 *Feel free to reach out if you want to collaborate on any projects or see potential for opportunities. I'm at 
-[Email](mailto:david.erwin.cz68@gmail.com) [X](https://twitter.com/0xmle)*
+[Email](mailto:david.erwin.cz68@gmail.com) and [X.com](https://twitter.com/0xmle)*
