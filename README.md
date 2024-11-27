@@ -1,5 +1,5 @@
 ## About Me:
-Hello there! I'm Davi, an aspireing MLE/Backend SWE with experience in *Deep Learning*, *Big Data*, and *Backend* frameworks. Currently, I'm pursuing my bachelor's degree in Computer Science and Electrical Engineering. 
+Hello there! I'm Davi, an aspiring MLE/Backend SWE with experience in *Deep Learning*, *Big Data*, and *Backend* frameworks. Currently, I'm pursuing my bachelor's degree in Computer Science and Electrical Engineering and completing my thesis on *Vision Transformers*. 
 <!-- I'm passionate about building real-world, open-source projects that provide value. I'm currently expanding my skills in native app development using React Native and exploring Generative AI. Additionally, I'm an active participant in hackathons and have won a few of them. I was also a finalist in the Smart India Hackathon 2023. If you're a hackathon organizer looking for a teammate or just want to have a chat with me, feel free to connect with me.-->
 
 All of my projects are available on my portfolio website: [daviderwin.me/projects](https://daviderwin.me/projects).
