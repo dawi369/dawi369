@@ -50,7 +50,7 @@ I'm excited to connect with others via [Email](mailto:david.erwin.cz68@gmail.com
 # Hi, I'm David 
 
 Ex-intern - Los Angeles, San Jose🌴   
-I'm an aspiring MLE/Backend SWE with experience in *Deep Learning*, *Big Data*, and *Backend* frameworks. Currently, I'm pursuing my bachelor's degree in Computer Science and Electrical Engineering and completing my thesis on *Vision Transformers*. 
+I'm an aspiring MLE/Backend SWE with experience in *Deep Learning*, *Big Data*, and *Backend* frameworks. Currently, I'm pursuing my bachelor's degree in Computer Science and Electrical Engineering and completing my thesis on *Vision Transformers*. I'm passionate about using my skills for *real-impact* such as *finantial forecasting*, automotive *reccomendations systems* and *Hackathons*. If you're a Hackathon organizer looking for a teammate, or just wanna chat, connect with me.
 
 All of my projects are available on my portfolio website: [daviderwin.me/projects](https://daviderwin.me/projects).
 
