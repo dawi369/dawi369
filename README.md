@@ -50,7 +50,7 @@ I'm excited to connect with others via [Email](mailto:david.erwin.cz68@gmail.com
 # Hi, I'm David 
 
 
-Multinational SWE, currently SWE in Prague @ [REDACTED]   
+Multinational software guy, currently SWE in Prague @ [REDACTED]   
 
 I'm always learning and aim to have really solid broad knowlege. I'll work on space mission one day.
 
