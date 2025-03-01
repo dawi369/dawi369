@@ -52,7 +52,7 @@ I'm excited to connect with others via [Email](mailto:david.erwin.cz68@gmail.com
 
 Multinational software guy, currently SWE in Prague @ [REDACTED]   
 
-I'm always learning and aim to have really solid broad knowlege. I'll work on space mission one day.
+I'm always learning and aim to have really solid broad knowledge. I'll work on critical space infrastructure systems one day.
 
 Oh and I'm also a pilot, fly FPV drone, and ice hockey player.
 
