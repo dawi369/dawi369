@@ -54,7 +54,7 @@ Multinational software guy, currently SWE in Prague @ [REDACTED]
 
 I'm always learning and aim to have really solid broad knowledge. I'll work on critical space infrastructure systems one day.
 
-Oh and I'm also a pilot, fly FPV drone, and ice hockey player.
+Oh and I'm also a private pilot in training, I fly FPV drones, and I'm an ice hockey player.
 
 All of my projects are available on my portfolio website: [daviderwin.me/projects](https://daviderwin.me/projects).
 
