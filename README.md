@@ -1,9 +1,7 @@
 # Hi, I'm David 
 
-Bc. Electrical Engineering and Computer Science
-
-Currently SWE in Prague @ Mastercard
+Launching my career with Mastercard, currently holding a SWE I position with the Data Pipeline team here in Prague.
 
 Oh and I'm also a private pilot in training, like to fly FPV drones, and play ice hockey.
 
-All of my projects are available on my portfolio website: [daviderwin.me/projects](https://daviderwin.me/projects).
+Personal site ;) [daviderwin.me/projects](https://daviderwin.me/projects).
